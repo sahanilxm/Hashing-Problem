@@ -1,0 +1,139 @@
+# Test Case 1
+Input:
+nums = [1, 2, 1, 2, 3]
+k = 2
+Expected Output:
+4
+
+# Test Case 2
+Input:
+nums = [1, 2, 1, 3, 4]
+k = 3
+Expected Output:
+3
+
+# Test Case 3
+Input:
+nums = [1, 2, 1, 3, 4]
+k = 5
+Expected Output:
+0
+
+# Test Case 4
+Input:
+nums = [1, 1, 1, 1, 1]
+k = 1
+Expected Output:
+5
+
+# Test Case 5
+Input:
+nums = [1, 1, 1, 1, 1]
+k = 2
+Expected Output:
+0
+
+# Test Case 6
+Input:
+nums = [1, 2, 1, 2, 3, 4, 5]
+k = 3
+Expected Output:
+5
+
+# Test Case 7
+Input:
+nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+k = 4
+Expected Output:
+4
+
+# Test Case 8
+Input:
+nums = [1, 2, 1, 3, 4, 3, 5]
+k = 3
+Expected Output:
+4
+
+# Test Case 9
+Input:
+nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+k = 5
+Expected Output:
+5
+
+# Test Case 10
+Input:
+nums = [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+k = 1
+Expected Output:
+10
+
+# Test Case 11
+Input:
+nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+k = 1
+Expected Output:
+1
+
+# Test Case 12
+Input:
+nums = [1, 2, 3, 4, 1, 2, 3, 4, 5]
+k = 2
+Expected Output:
+2
+
+# Test Case 13
+Input:
+nums = [10, 20, 30, 40, 50]
+k = 2
+Expected Output:
+2
+
+# Test Case 14
+Input:
+nums = [1, 2, 1, 2, 3, 4, 1, 2, 3]
+k = 3
+Expected Output:
+5
+
+# Test Case 15
+Input:
+nums = [1, 2, 3, 4, 5]
+k = 1
+Expected Output:
+1
+
+# Test Case 16
+Input:
+nums = [1, 2, 3, 4, 5]
+k = 5
+Expected Output:
+5
+
+# Test Case 17
+Input:
+nums = [1, 2, 1, 2, 3, 4, 5, 6, 7, 8]
+k = 4
+Expected Output:
+4
+
+# Test Case 18
+Input:
+nums = [1, 2, 1, 2, 3, 4, 5, 6, 7, 8]
+k = 8
+Expected Output:
+8
+
+# Test Case 19
+Input:
+nums = [1, 2, 1, 2, 3, 4, 5, 6, 7, 8]
+k = 10
+Expected Output:
+10
+
+# Test Case 20
+Input:
+nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+k = 2
+Expected Output:
+2
